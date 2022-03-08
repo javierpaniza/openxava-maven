@@ -6,7 +6,7 @@
 
   <groupId>org.openxava</groupId>
   <artifactId>openxava-core</artifactId>
-  <version>6.6.2</version>
+  <version>6.6.2.1</version>
 
   <name>openxava-core</name>
     <url>https://www.openxava.org</url>
